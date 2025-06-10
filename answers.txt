@@ -11,3 +11,8 @@ Answer: A field that data science could be applied to is sports. An example is t
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: The difference between the two is that merging will combine the changes from one branch and merge them into another branch through a commit. Rebasing will take the commits of the another branch and integrate it with the main/master branch, but the other branch will be the same.
+
+Q4: What are you looking forward to this semester?
+
+Answer: To learn about data science and see how it relates to AI/ML.
+
